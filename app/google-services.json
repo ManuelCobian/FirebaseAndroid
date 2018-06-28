@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882751641777",
+    "firebase_url": "https://curso-android-firebase-39879.firebaseio.com",
+    "project_id": "curso-android-firebase-39879",
+    "storage_bucket": "curso-android-firebase-39879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882751641777:android:49a6bdf1a336ba2d",
+        "android_client_info": {
+          "package_name": "ventanaesperanza.curso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882751641777-0efcaldg04sir7fhk77ctodqqf1f07ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ventanaesperanza.curso",
+            "certificate_hash": "2bd2a75d2a1c1981a953cc9b825453360300f081"
+          }
+        },
+        {
+          "client_id": "882751641777-bsmejml3p5mrf2mbenb450ii92egluhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1KmtCpP0yuDPNnhc_11L9gJofaTbpDt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882751641777-bsmejml3p5mrf2mbenb450ii92egluhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
